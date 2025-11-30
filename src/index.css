@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+    box-sizing: border-box;
+}
+.error-message{
+    color: red;
+    font-size: 14px;
+    font-weight: 300;
+}
